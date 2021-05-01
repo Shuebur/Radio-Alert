@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RadioAlert</string>
+    <string-array name="Choice_items">
+
+        <item>Once</item>
+        <item>Hourly</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+        <item>Yearly</item>
+
+    </string-array>
+</resources>
